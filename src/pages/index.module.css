@@ -8,29 +8,6 @@
   padding: 0 0.5rem;
 }
 
-.boardstyle {
-  width: 640px;
-  height: 640px;
-  background-color: green;
-}
-
-.cellstyle {
-  float: left;
-  width: 80px;
-  height: 80px;
-  border: 1px solid;
-  border-color: black;
-}
-
-.stonestyle {
-  width: 56px;
-  height: 56px;
-  margin-top: 10px;
-  margin-left: 10px;
-  background-color: white;
-  border-radius: 50%;
-}
-
 .main {
   display: flex;
   flex: 1;
